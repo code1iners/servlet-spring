@@ -42,6 +42,7 @@ public class RequestParamServlet extends HttpServlet {
         for (String name : usernames) {
             System.out.println("username = " + name);
         }
+
         System.out.println("--- Same parameter look up END ---");
         System.out.println();
 
