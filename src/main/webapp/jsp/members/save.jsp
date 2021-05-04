@@ -1,11 +1,5 @@
 <%@ page import="hello.servlet.domain.member.Member" %>
-<%@ page import="hello.servlet.domain.member.MemberRepository" %><%--
-  Created by IntelliJ IDEA.
-  User: codeliner
-  Date: 2021/05/03
-  Time: 4:24 오후
-  To change this template use File | Settings | File Templates.
---%>
+<%@ page import="hello.servlet.domain.member.MemberRepository" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     // note. request, response enabled
